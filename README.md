@@ -12,3 +12,5 @@
 2) I created an AVL Tree class with an insert function that inserts a value into the tree.
     The insert function will recursively call itself to insert the value into the correct location.
     The function will then balance the tree by rotating the nodes as needed.
+
+The codes are revised versions from `https://www.geeksforgeeks.org/insert-operation-in-b-tree/` and `https://www.geeksforgeeks.org/insertion-in-an-avl-tree/`
